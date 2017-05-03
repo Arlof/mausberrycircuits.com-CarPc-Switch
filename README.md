@@ -9,4 +9,4 @@ Pin IN         <->      Pin 24
 Pin OUT        <->      Pin 23
 
 
-![Alt text](/photo/pinoutRPI23.jpg?raw=true "Pin Out")
+![Alt text](/photos/Pi-GPIO-header.png?raw=true "Pin Out")
